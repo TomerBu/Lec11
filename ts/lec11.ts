@@ -36,7 +36,7 @@ allInputs.forEach((i) => {
 
 box.addEventListener("click", () => {
   const color = rgb();
-  alert(color.r + ', ' + color.g + ', ' + color.b);//?object?
+  alert(color.r + ', ' + color.g + ', ' + color.b);//?object!
 });
 
 
