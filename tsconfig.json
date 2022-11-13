@@ -10,3 +10,8 @@
     "outDir":"./js",
   }
 }
+
+
+// type-script-compiler = TSC
+//tsc --init// צור קובץ הגדרות
+//tsc בצע קומפילציה
